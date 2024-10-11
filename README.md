@@ -1,4 +1,4 @@
-# Simple CRM System
+# Simple Employees Management System
 
 This is a simple Employees Management system built using native PHP. The system allows you to manage employees by performing basic CRUD (Create, Read, Update, Delete) operations. Additionally, simple user authentication is applied to restrict access to certain functionalities.
 
