@@ -1,15 +1,15 @@
 # Simple CRM System
 
-This is a simple Customer Relationship Management (CRM) system built using native PHP. The system allows you to manage customers by performing basic CRUD (Create, Read, Update, Delete) operations. Additionally, simple user authentication is applied to restrict access to certain functionalities.
+This is a simple Employees Management system built using native PHP. The system allows you to manage employees by performing basic CRUD (Create, Read, Update, Delete) operations. Additionally, simple user authentication is applied to restrict access to certain functionalities.
 
 ## Features
 
 - User Authentication (Login/Logout)
-- Add new customers
-- View customer details
-- Update customer information
-- Delete customers
-- List all customers
+- Add new employees
+- View employee details
+- Update employee information
+- Delete employees
+- List all employees
 
 
 ## Technologies Used
