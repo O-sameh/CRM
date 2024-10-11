@@ -37,4 +37,4 @@ This is a simple Employees Management system built using native PHP. The system 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/O-sameh/CRM.git
+   git clone https://github.com/O-sameh/Employees-MS.git
