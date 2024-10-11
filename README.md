@@ -10,7 +10,7 @@ This is a simple Customer Relationship Management (CRM) system built using nativ
 - Update customer information
 - Delete customers
 - List all customers
-- Search for customers by name
+
 
 ## Technologies Used
 
